@@ -8,7 +8,7 @@ I have switched careers from retail to getting into the making of video games
 
 *   🌍  I'm based in boise, ID
 *   ✉️  You can contact me at [jamieleewalker814@gmail.com](mailto:jamieleewalker814@gmail.com)
-*   🧠  I'm learning backend software developement### Skills 
+*   🧠  I'm learning Backend Software Developement Skills 
 <p align="left">
 ICON ICON ICON ICON ICON ICON 
                                 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
